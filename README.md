@@ -4,14 +4,14 @@ Our application, SpeakCV, is basically an automatic CV generating app which will
 DeepSpeech2
 
 # Dependencies
-!pip install pympler
-!pip install python_speech_features
-!pip install aubio
-!pip install kenlm
-!pip install soundfile
-!pip uninstall tensorflow tensorflow-gpu protocol --yes
-!pip install tensorflow-gpu==1.14.0
-!pip install keras==2.2.0
+!pip install pympler\
+!pip install python_speech_features\
+!pip install aubio\
+!pip install kenlm\
+!pip install soundfile\
+!pip uninstall tensorflow tensorflow-gpu protocol --yes\
+!pip install tensorflow-gpu==1.14.0\
+!pip install keras==2.2.0\
 
 # Getting Started with Create React App
 
