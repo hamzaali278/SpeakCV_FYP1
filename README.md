@@ -13,7 +13,6 @@ DeepSpeech2
 !pip install tensorflow-gpu==1.14.0
 !pip install keras==2.2.0
 
-
 # Getting Started with Create React App
 
 In the project directory, you can run:
