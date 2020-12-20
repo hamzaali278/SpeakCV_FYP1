@@ -1,5 +1,5 @@
-# SpeakCV
-Our application, SpeakCV, is basically an automatic CV generating app which will help any Urdu speaking user in making a professional CV. The user will answer a few questions in Urdu and speech data will be recorded in phone. The data is then preprocessed and sent to a speaker independent ASR for speech recognition. The Urdu words are then translated to English. Our app will then use CV specific data and display it on a template.
+## SpeakCV
+SpeakCV, is basically an automatic CV generating app which will help any Urdu speaking user in making a professional CV.\ The user will answer a few questions in Urdu and speech data will be recorded in phone. The data is then preprocessed and sent to a speaker independent ASR for speech recognition. The Urdu words are then translated to English. Our app will then use CV specific data and display it on a template.
 # Architecture used
 DeepSpeech2
 
