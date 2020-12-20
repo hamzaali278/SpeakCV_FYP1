@@ -11,7 +11,7 @@ DeepSpeech2
 !pip install soundfile\
 !pip uninstall tensorflow tensorflow-gpu protocol --yes\
 !pip install tensorflow-gpu==1.14.0\
-!pip install keras==2.2.0\
+!pip install keras==2.2.0
 
 # Getting Started with Create React App
 
