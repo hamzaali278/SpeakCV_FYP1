@@ -19,12 +19,17 @@ DeepSpeech2
 
 # Getting Started with Create React App
 
+## Requirements:
+
+- Node >=12.6.1
+- Node Package Manager(npm) >=6.13.4
+ Clone the repo locally.
+- Install the required packages for server side by running `npm install` in the main directory for backend
 In the project directory, you can run:
 
-Runs the app in the development mode.\
+Runs the app in the development mode by running `npm start` on comand prompt
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+
 
 
